@@ -2,7 +2,7 @@
 Playing around with rabbitmq
 
 
-To run, make sure to run this on docker:
+To run, make sure to run this on your terminal:
 
 ```
 docker run --name rabbitmq -p 5672:5672 rabbitmq
